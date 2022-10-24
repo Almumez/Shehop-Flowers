@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "159496270161",
+    "firebase_url": "https://shelhop-92a9a-default-rtdb.firebaseio.com",
+    "project_id": "shelhop-92a9a",
+    "storage_bucket": "shelhop-92a9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159496270161:android:816d09ec7aca129211a370",
+        "android_client_info": {
+          "package_name": "com.example.shelhops"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159496270161-1v169iruha2ti8dt1ctlvmt37ia0dp4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shelhops",
+            "certificate_hash": "73cc97b4e766c8ade0a009d1af28837c5890ccda"
+          }
+        },
+        {
+          "client_id": "159496270161-kgklffmrn6rg782cc8la5hb2ovhaj6po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuH8CGtgeMCB1mW71wWDwcS0tH9TNGzCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159496270161-kgklffmrn6rg782cc8la5hb2ovhaj6po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
