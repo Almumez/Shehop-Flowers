@@ -9,6 +9,7 @@ import '../const/constance.dart';
 class IntroScreen extends StatelessWidget {
   IntroScreen({ Key? key}) : super(key: key);
 
+
   final List<PageViewModel> pages = [
     PageViewModel(
       title: 'مرحبا بك ',
